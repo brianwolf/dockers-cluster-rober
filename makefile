@@ -1,4 +1,4 @@
-IMAGE=ghcr.io/brianwolf/dockers-cluster-rober:latest
+IMAGE=docker.io/brianwolf94/dockers-cluster-rober:latest
 
 build b:
 	docker build . -t $(IMAGE)
