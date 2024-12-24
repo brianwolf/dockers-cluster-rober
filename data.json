@@ -31,7 +31,7 @@
         "title": "Dozzle",
         "link": "https://logs.lobezzzno.com.ar/",
         "description": "Herramienta para ver los logs de los contenedores",
-        "image": "https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/dozzle.png",
+        "image": "https://developer.asustor.com/uploadIcons/0020_117518_1660879946_dozzle_256.png",
         "categories": [
             "admin"
         ]
@@ -63,6 +63,16 @@
         "image": "https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_200,h_200/https://api.charmhub.io/api/v1/media/download/charm_Owpj9CsDEMZwVtup3ZTxxs0FtyvDqb2o_icon_5cef79c2d18f67464f39c8f2cf2d7ebb815b0071f04d3ffbb94f49fddd3ab666.png",
         "categories": [
             "admin"
+        ]
+    },
+    {
+        "title": "Excalidraw",
+        "link": "https://paint.lobezzzno.com.ar/",
+        "description": "Herramienta para dibujar graficos similar a draw.io",
+        "image": "https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_4faa9d4c43f2c79f9bee4a0ac10bd9ec/excalidraw.png",
+        "categories": [
+            "usuario",
+            "programación"
         ]
     }
 ]
